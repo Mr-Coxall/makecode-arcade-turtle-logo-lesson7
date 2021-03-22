@@ -96,11 +96,13 @@ You can now use loops, to make your own Spirographs.
 **Your Turn**
 
 Get your **Turtle** to draw a your own Spirograph. Ensure it:
-- is not using 280° but larger than 90° (turns out even numbers are better!)
+- is not using 280° but is larger than 90° (turns out even numbers are better!)
 - change the color of the pen
-- fill your screen
+- fill your screen as much as possible
+- center your Spirograph as much as possible
 - return the **Turtle** to the center when done
 - loop enough times that you end up back where you started
+- say, "Spirograph" at the end
 
 ## Step 11
 **Done**
