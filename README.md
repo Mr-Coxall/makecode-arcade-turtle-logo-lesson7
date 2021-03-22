@@ -107,7 +107,7 @@ Get your **Turtle** to draw a your own Spirograph. Ensure it:
 ## Step 11
 **Done**
 
-You have successfully completed your six lesson in Turtle Logo.
+You have successfully completed your seventh lesson in Turtle Logo.
 
 ```ghost
 turtle.say("Hello, World!")
